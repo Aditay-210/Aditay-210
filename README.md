@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditay-210
-- 👀 I’m interested in... 
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development and exploring new tech
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me adityadwivedi164@gmail.com
 
 <!---
